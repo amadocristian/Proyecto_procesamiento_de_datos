@@ -11,9 +11,7 @@ El objetivo principal de este proyecto es aplicar técnicas y herramientas de pr
 ### Contenido del Repositorio
 1. **Notebook:** El notebook de Google Colab ENTREGA_2_PROYECTO.ipynb contiene el codigo de todo el desarrollo de la segunda entrega
 
-2. **Datos:** La carpeta "Datos" almacena los conjuntos de datos utilizados en el proyecto. Se proporcionan en formato CSV y/o cualquier otro formato pertinente.
-
-4. **Informe:** El informe se encuentra en el archivo pdf que está dentro de este repositorio
+2. **Informe:** El informe se encuentra en el archivo pdf que está dentro de este repositorio
 
 ### Instrucciones de Ejecución
 Para ejecutar y reproducir los resultados, se recomienda seguir las instrucciones detalladas en los archivos Jupyter Notebook proporcionados. Estos notebooks contienen explicaciones paso a paso y código comentado para facilitar la comprensión.
